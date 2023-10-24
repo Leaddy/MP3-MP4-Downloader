@@ -137,7 +137,7 @@ def validate_link_input(new_text):
     return True
 
 def open_link(event):
-    webbrowser.open("https://linktr.ee/leaddy")
+    webbrowser.open("https://heylink.me/leaddy")
 
 # Tkinter penceresini oluştur
 window = tk.Tk()
